@@ -25,7 +25,7 @@ public class Main {
     public Main() throws LoginException {
         INSTANCE = this;
 
-        String TOKEN = getEnVar("BUTTER_TOKEN");
+        String TOKEN = getEnVar("BOT_TOKEN");
 
         builder = JDABuilder.createLight(TOKEN);
         jda = builder.build();
