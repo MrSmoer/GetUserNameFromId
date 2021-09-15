@@ -16,7 +16,6 @@ public class Main {
     public JDABuilder builder;
 
     public static void main(String[] args) {
-        System.out.println("test");
         try {
             new Main();
         } catch (LoginException | IllegalArgumentException e) {
