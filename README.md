@@ -1,5 +1,5 @@
 # GetUserNameFromId
-This is a small Java-Project with JDA that returns a Discord-User's name in exchange of his ID.
+This is a small Java-Project with JDA that returns a Discord-User's name in exchange of their ID.
 
 THIS PROBABLY DOES NOT WORK ANYMORE BECAUSE DISCORD IMPROVED PRIVACY
 
